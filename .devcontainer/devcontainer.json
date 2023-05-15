@@ -1,0 +1,4 @@
+  {
+      "name": "Msc-EWD--Movies-Assignement-2",
+      "image":"mcr.microsoft.com/devcontainers/javascript-node:0-18"
+  }
